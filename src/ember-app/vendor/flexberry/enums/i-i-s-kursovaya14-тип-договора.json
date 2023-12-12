@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Kursovaya14",
+  "className": "ТипДоговора",
+  "enumObjects": {
+    "Краткосрочный": "",
+    "Долгосрочный": ""
+  }
+}

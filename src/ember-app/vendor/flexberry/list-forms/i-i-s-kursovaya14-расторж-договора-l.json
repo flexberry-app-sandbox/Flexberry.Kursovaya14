@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-kursovaya14-расторж-договора-e",
+  "editForm": "i-i-s-kursovaya14-расторж-договора-e",
+  "external": false,
+  "caption": "Расторж договора",
+  "name": "IISKursovaya14РасторжДоговораL",
+  "className": "РасторжДоговораL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya14-расторж-договора",
+      "modelProjection": "РасторжДоговораL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Расторж договора",
+  "name": "IISKursovaya14РасторжДоговораE",
+  "className": "РасторжДоговораE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-kursovaya14-расторж-договора",
+      "modelProjection": "РасторжДоговораE"
+    }
+  ]
+}
